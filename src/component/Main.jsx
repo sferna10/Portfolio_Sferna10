@@ -1,12 +1,12 @@
 import Nav from "./nav"
-import
+import Hero from "./hero"
 
 const main = () => {
   return (
     <div className="bg-indigo-600">
       <Nav/>
-      <hero/>
+      <Hero/>
     </div>
-  );
-};
+  )
+}
 export default main;
