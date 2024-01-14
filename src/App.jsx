@@ -1,11 +1,11 @@
-import Nav from "./component/nav"
+import Main from "./component/Main";
 
 function App() {
   return (
-    <h1 className="text-3x1 ">
-    <Nav/>
-    </h1>
-    )
-  }
+    <>
+      <Main />
+    </>
+  )
+}
 
 export default App;
