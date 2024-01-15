@@ -21,7 +21,7 @@ const hero = () => {
       <div className="w-1/3 ssm:w-fit">
       <p className='text-4x1 mb-4'>About Me</p>
       <p className=' text-slate-300'>
-      Web designer is my passion.
+      Web design is my passion.
       
       </p>
       <button className='bg-white text-indigo-600 px-10 py-2 my-3 rounded-full hover:bg-indigo-800 hover:text-white '>
