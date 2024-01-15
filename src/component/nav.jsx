@@ -38,7 +38,7 @@ const nav = () => {
         </div>
       </div>
     </>
-  );
-};
+  )
+}
 
 export default nav;
