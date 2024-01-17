@@ -72,7 +72,7 @@ export default function Projects() {
                                    <img src={Project1Img} alt="Project1" width={150} height={150} />
                                </div>
                        </div>
-                       </div>
+                    
                            <div className="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl hover:animate-pulse">
                    
                            <div className="md:flex">
@@ -88,14 +88,11 @@ export default function Projects() {
                                Includes the use of Flexbox, media queries, and CSS variables. 
                                 </p>
                                </div>
-                       
-                       </div>
-                   </div>
-               <div/>
-                    </div>
-                
-                </div>
-            </div>    
+                            </div>
+                            </div>
+                    <div>
+               </div>
+            </div>
         </div>
     )
 }
