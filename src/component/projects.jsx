@@ -50,7 +50,7 @@ export default function Projects() {
                                     Includes the use of Flexbox, media queries, and CSS variables. 
                                      </p>
                                     </div>
-                            
+                                </div>
                             </div>
                         </div>
                     <div/>
@@ -93,6 +93,8 @@ export default function Projects() {
                     <div>
                </div>
             </div>
+            </div>
         </div>
+    </div>
     )
 }
