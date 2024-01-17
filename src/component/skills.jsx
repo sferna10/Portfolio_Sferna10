@@ -14,9 +14,12 @@ export default function Skills() {
               <div>
                   <div className="grid grid-cols-2 gap-4 p-5">
                       <div className="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl hover:animate-pulse">
-              </div>
-
+                      </div>
+                  </div>
+            
+          
           </div>
-       </div>
-  )
+        </div>
+      </div>
+    )  
 }
