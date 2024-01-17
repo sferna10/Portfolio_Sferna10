@@ -1,7 +1,7 @@
 import { MdFacebook } from "react-icons/md";
 import { TfiInstagram } from "react-icons/tfi";
 import { PiPinterestLogoFill } from "react-icons/pi";
-import HeroPic from "../assets/HeroPic.jpg";
+import HeroPic from "./assets/HeroPic.jpg";
 
 const hero = () => {
   return (
