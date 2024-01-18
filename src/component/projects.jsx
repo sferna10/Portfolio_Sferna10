@@ -25,9 +25,9 @@ export default function Projects() {
                                        <div className="uppercase tracking-wide text-sm to-indigo-500 font-semibold">
                                        Personal Portfolio
                                        </div> 
-                                       <a href="#"> HTML and CSS</a>
+                                       <a href="#">Flexbox, Media Queries and CSS variables</a>
                                        <p className="mt-2 text-slate-500">
-                                       Includes the use of Flexbox, media queries, and CSS variables. 
+                                       Professional Portfolio Webpage. 
                                        </p>
                                     </div>
                                     <div className="md:shrink-0 p-5">
@@ -45,9 +45,9 @@ export default function Projects() {
                                       <div className="uppercase tracking-wide text-sm to-indigo-500 font-semibold">
                                          Coding Quiz Challenge
                                        </div> 
-                                    <a href="#">JavaScript and JQuery</a>
+                                    <a href="#">Web APIs and JavaScript</a>
                                     <p className="mt-2 text-slate-500">
-                                    Includes the use of Flexbox, media queries, and CSS variables. 
+                                     Coding assessment with a combination of multiple-choice questions
                                      </p>
                                     </div>
                                 </div>
@@ -61,39 +61,41 @@ export default function Projects() {
                         <div className="md:flex">
                                <div className="p-8">
                                   <div className="uppercase tracking-wide text-sm to-indigo-500 font-semibold">
-                                  Personal Portfolio
+                                  Password Generator
                                   </div> 
-                                  <a href="#"> HTML and CSS</a>
+                                  <a href="#"> JavaScript</a>
                                   <p className="mt-2 text-slate-500">
-                                  Includes the use of Flexbox, media queries, and CSS variables. 
+                                  Application that employees can use to generate a random password.
                                   </p>
                                </div>
                                <div className="md:shrink-0 p-5">
-                                   <img src={Project1Img} alt="Project1" width={150} height={150} />
+                                   <img src={Project3Img} alt="Project1" width={150} height={150} />
                                </div>
                        </div>
-                    
+                       <div>
+        
                            <div className="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl hover:animate-pulse">
                    
                            <div className="md:flex">
                            <div className="md:shrink-0 p-5">
-                              <img src={Project2Img} alt="Project1" width={150} height={150} />
+                              <img src={Project4Img} alt="Project1" width={150} height={150} />
                           </div>
                               <div className="p-8">
                                  <div className="uppercase tracking-wide text-sm to-indigo-500 font-semibold">
-                                    Coding Quiz Challenge
+                                    Work Day Scheduler
                                   </div> 
-                               <a href="#">JavaScript and JQuery</a>
+                               <a href="#">JavaScript, Day.js and JQuery</a>
                                <p className="mt-2 text-slate-500">
-                               Includes the use of Flexbox, media queries, and CSS variables. 
+                               Calendar application that allows users too save events for each hour of a typical working day. 
                                 </p>
                                </div>
                             </div>
+                         </div>
                         </div>
                     <div>
                </div>
             </div>
-            </div>
+          </div>
         </div>
 
     )
