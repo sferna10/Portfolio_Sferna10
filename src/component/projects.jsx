@@ -57,15 +57,15 @@ export default function Projects() {
           <div className="md:flex">
             <div className="p-8">
               <div className="uppercase tracking-wide text-sm to-indigo-500 font-semibold">
-                Personal Portfolio
+                Password Generator
               </div>
-              <a href="#">Flexbox, Media Queries and CSS variables</a>
+              <a href="#">JavaScript</a>
               <p className="mt-2 text-slate-500">
-                Professional Portfolio Webpage.
+                Application that employees can use to generate a random password.
               </p>
             </div>
             <div className="md:shrink-0 p-5">
-              <img src={Project1Img} alt="Project1" width={150} height={150} />
+              <img src={Project3Img} alt="Project3" width={150} height={150} />
             </div>
           </div>
         </div>
@@ -76,14 +76,13 @@ export default function Projects() {
             </div>
             <div className="p-8">
               <div className="uppercase tracking-wide text-sm to-indigo-500 font-semibold">
-                Coding Quiz Challenge
+                Work Day Scheduler
               </div>
 New
 4:38
-<a href="#">Web APIs and JavaScript</a>
+<a href="#">JavaScript, Days.js and JQuery</a>
               <p className="mt-2 text-slate-500">
-                Coding assessment with a combination of multiple-choice
-                questions
+                Calendar application that allows users to save events for each hou of a typical working day.
               </p>
             </div>
           </div>
