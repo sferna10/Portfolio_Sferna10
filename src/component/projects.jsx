@@ -1,4 +1,4 @@
-import React from "react";
+
 /* tslint:disable:no-unused-variable */
 import Project1Img from "./Assets/Project1.png";
 import Project2Img from "./Assets/Project2.png";
