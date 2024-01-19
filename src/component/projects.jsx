@@ -72,14 +72,13 @@ export default function Projects() {
         <div className="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl hover:animate-pulse">
           <div className="md:flex">
             <div className="md:shrink-0 p-5">
-              <img src={Project2Img} alt="Project1" width={150} height={150} />
+              <img src={Project4Img} alt="Project1" width={150} height={150} />
             </div>
             <div className="p-8">
               <div className="uppercase tracking-wide text-sm to-indigo-500 font-semibold">
                 Work Day Scheduler
               </div>
-New
-4:38
+
 <a href="#">JavaScript, Days.js and JQuery</a>
               <p className="mt-2 text-slate-500">
                 Calendar application that allows users to save events for each hou of a typical working day.
@@ -88,6 +87,43 @@ New
           </div>
         </div>
       </div>
+      <hr/>
+      <div className="grid grid-cols-2 gap-4 p-5">
+      <div className="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl hover:animate-pulse">
+        <div className="md:flex">
+          <div className="p-8">
+            <div className="uppercase tracking-wide text-sm to-indigo-500 font-semibold">
+              Note Taker
+            </div>
+            <a href="#">Express.js</a>
+            <p className="mt-2 text-slate-500">
+              Application that can be used to write and save notes.
+            </p>
+          </div>
+          <div className="md:shrink-0 p-5">
+            <img src={Project5Img} alt="Project3" width={150} height={150} />
+          </div>
+        </div>
+      </div>
+      <div className="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl hover:animate-pulse">
+        <div className="md:flex">
+          <div className="md:shrink-0 p-5">
+            <img src={Project6Img} alt="Project1" width={150} height={150} />
+          </div>
+          <div className="p-8">
+            <div className="uppercase tracking-wide text-sm to-indigo-500 font-semibold">
+              Server-Side APIs
+            </div>
+
+<a href="#">API OpenWeatherMap.org</a>
+            <p className="mt-2 text-slate-500">
+              Weather dashboard that present the current and forecast for the city given .
+            </p>
     </div>
+ </div>
+ </div>
+ </div>
+ </div>
+    
   );
 }
