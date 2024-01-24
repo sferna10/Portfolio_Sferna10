@@ -2,7 +2,7 @@ import Nav from "./nav"
 import Hero from "./hero"
 import Skills from "./skills"
 import Projects from "./projects"
-import contact from "./Contact"
+import Contact from "./Contact"
 import Footer from "./footer"
 
 const main = () => {
@@ -12,7 +12,7 @@ const main = () => {
       <Hero/>
      <Skills/>
      <Projects/>
-     <contact/>
+     <Contact/>
      <Footer/>
       </div>
   )
