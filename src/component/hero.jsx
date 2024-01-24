@@ -4,6 +4,9 @@ import { PiPinterestLogoFill } from "react-icons/pi";
 import HeroPic from "./assets/HeroPic.jpg";
 
 const hero = () => {
+
+//make function to do something
+
   return (
     <section className='flex justify-around items-center p-10 space-x-10 lg:flex-row ssm:flex-col ssm:space-y-10 text-white'>
       <div className='lg:w-1/3 ssm:w-fit'>
@@ -24,7 +27,7 @@ const hero = () => {
       Web design is my passion.
       
       </p>
-      <button className='bg-white text-indigo-600 px-10 py-2 my-3 rounded-full hover:bg-indigo-800 hover:text-white '>
+      <button className='bg-white text-indigo-600 px-10 py-2 my-3 rounded-full hover:bg-indigo-800 hover:text-white 'id='bioButton'>
          Show more...
       </button>
 

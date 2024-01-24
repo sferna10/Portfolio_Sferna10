@@ -1,6 +1,14 @@
 import { useState } from 'react';
 import './style.css';
 
+
+<div>
+<div className="bg-indigo-800 m-20 max-w-full">
+  <div className="grid justify-items-center m-10">
+    <h1 className="text-3xl text-white mt-10" id="Contact">Contact</h1>
+  </div>
+</div>
+</div>
 function Contact() {
   // Here we set two state variables for firstName and lastName using `useState`
   const [firstName, setFirstName] = useState('');

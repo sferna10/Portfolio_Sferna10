@@ -11,7 +11,7 @@ export default function Projects() {
     <div>
       <div className="bg-indigo-800 m-20 max-w-full">
         <div className="grid justify-items-center m-10">
-          <h1 className="text-3xl text-white mt-10">Projects</h1>
+          <h1 className="text-3xl text-white mt-10" id="projects">Projects</h1>
         </div>
       </div>
       {/* first row */}

@@ -5,7 +5,7 @@ export default function Skills() {
     <div>
       <div className="bg-indigo-800 m-20 max-w-full">
         <div className="grid justify-items-center m-10">
-          <h1 className="text-3xl text-white mt-10">Skills</h1>
+          <h1 className="text-3xl text-white mt-10" id="skills">Skills</h1>
         </div>
       </div>
       {/* first row */}
@@ -46,7 +46,7 @@ export default function Skills() {
               <li>* Express</li>
               <li>* JQuery</li>
               <li>* MySQL, Sequelize</li>
-              <li>* MondoDB, Mongoose</li>
+              <li>* MongoDB, Mongoose</li>
               <li>* Rest</li>
               <li>* GraphQL</li>
               <li>* Merk</li>

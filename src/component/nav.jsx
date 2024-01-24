@@ -4,7 +4,7 @@ const nav = () => {
       <div className="flex items-center justify-between p-10 lg:flex-row">
         <div>
           <a
-            href="#"
+            href="#hero"
             className="text-white font-mono text-3xl tracking-wider flex items-center"
           >
             Professional Portfolio
@@ -18,19 +18,19 @@ const nav = () => {
             Home
           </a>
           <a
-            href="#"
+            href="#skills"
             className="text-white hover:bg-indigo-800 rounded-full px-5 py-2 text-xl"
           >
             Skills
           </a>
           <a
-            href="#"
+            href="#projects"
             className="text-white hover:bg-indigo-800 rounded-full px-5 py-2 text-xl"
           >
             Projects
           </a>
           <a
-            href="#"
+            href="#Contact"
             className="text-white hover:bg-indigo-800 rounded-full px-5 py-2 text-xl"
           >
             Contact
