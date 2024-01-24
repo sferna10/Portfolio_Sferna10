@@ -33,7 +33,12 @@ const nav = () => {
             href="#"
             className="text-white hover:bg-indigo-800 rounded-full px-5 py-2 text-xl"
           >
-            Contacts
+            Contact
+            </a>
+          <a
+            href="#"
+            className="text-white hover:bg-indigo-800 rounded-full px-5 py-2 text-xl"
+          >
           </a>
         </div>
       </div>

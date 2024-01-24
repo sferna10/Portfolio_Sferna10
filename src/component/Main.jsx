@@ -2,6 +2,7 @@ import Nav from "./nav"
 import Hero from "./hero"
 import Skills from "./skills"
 import Projects from "./projects"
+import contact from "./contact"
 import Footer from "./footer"
 
 const main = () => {
@@ -11,6 +12,7 @@ const main = () => {
       <Hero/>
      <Skills/>
      <Projects/>
+     <contact/>
      <Footer/>
       </div>
   )

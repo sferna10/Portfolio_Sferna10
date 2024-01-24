@@ -11,7 +11,7 @@ const hero = () => {
          <h1 className='text-6x1'>Silvia Fernandez</h1>
          <hr/>
             <p className='mt-10 text-slate-300 font-sans'>
-            A full stalk developer, and web graphic designer.</p>
+            A full stalk developer, and web designer.</p>
       </div>
       <div className='w-1/3 items-center ssm:w-fit'>
       <img src={HeroPic} alt="woman" width={250} height={250} 
