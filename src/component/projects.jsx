@@ -29,6 +29,7 @@ export default function Projects() {
             </div>
             <div className="md:shrink-0 p-5">
               <img src={Project1Img} alt="Project1" width={150} height={150} />
+            
             </div>
           </div>
         </div>
