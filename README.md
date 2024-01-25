@@ -4,7 +4,12 @@
 
 ## Description
 
-Application that allows weather outlook for multiple cities for travelers
+ Professional Portfolio is a single-page application that has been created with React, Vite and Tailwind framework, and the target is  to help with the search for jobs in the field and stages to the interview phase. The content is directed to three elements: About me, Projects, contact, and resume, and contains samples of the projects created
+
+##Motivation 
+
+Undeniably, having a portfolio page is an advantageous way to enter the web design market and give an excellent impression to future hiring managers. 
+
 
 ## Table of Contents
 
@@ -23,11 +28,7 @@ Any specific framework installation is required.
 
 ## Usage
 
-This application runs in the browser. Once the users enter the page, they can type the name of the city they are interested in knowing the climate conditions for the specific city in the search window. 
-
-
-
-The application will retrieve the current weather conditions, the temperature, the humidity, and the wind speed, and it will also display the five-day forecast for the city. Also, each day will show an icon representation of the weather conditions, the temperature, the wind speed, and the humidity. 
+ When the user loads the portfolio, it is presented with the developer's name and navigation with titles corresponding to different sections of the portfolio: Home (About me) Projects, Resume, and Contact. When the user clicks on each button, the browser takes the user to the specific information.
 
 
 The application can be accessed [here]( https://sferna10.github.io/Weather_Dashboard_forecast/).
