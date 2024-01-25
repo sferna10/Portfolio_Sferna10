@@ -25,12 +25,17 @@ Any specific framework installation is required.
 
 ## Usage
 
+To run the application, type:
+
+```
+npm run dev
+`````
+
  When the user loads the portfolio, it is presented with the developer's name and navigation with titles corresponding to different sections of the portfolio: Home (About me), Projects, Resume, and Contact. When the user clicks on each button, the browser takes the user to the specific information.
 
 <img width="1915" alt="Screenshot 2024-01-18 at 3 02 40 PM" src="https://github.com/sferna10/your-project-name/assets/139423719/363c0e48-af75-4689-9137-0a7a92c4198f">
 
-<img width="1909" alt="Screenshot 2024-01-18 at 3 03 09 PM" src="https://github.com/sferna10/your-project-name/assets/139423719/e641addf-67f6-4670-9f59-53a830c94da7">
-
+<img width="1887" alt="Screenshot 2024-01-25 at 1 31 43 AM" src="https://github.com/sferna10/Portfolio_Sferna10/assets/139423719/4bfefb59-fa56-44cb-8772-07e74663ce0f">
 <img width="1615" alt="Screenshot 2024-01-25 at 1 31 17 AM" src="https://github.com/sferna10/your-project-name/assets/139423719/dd8e9e87-82cf-4fd8-9689-f51cd3cefe0c">
 
 
